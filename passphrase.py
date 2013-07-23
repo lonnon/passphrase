@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+# passphrase
+#
+# Trawls /usr/share/dict/words for random words (four by default, number
+# may be specified as first argument on command line).
+
 import random
 import sys
 
